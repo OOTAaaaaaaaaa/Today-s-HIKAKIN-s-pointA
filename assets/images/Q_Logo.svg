@@ -4,24 +4,24 @@
 	 y="0px" viewBox="0 0 200 42" style="enable-background:new 0 0 200 42;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.2;}
-	.st1{stroke:#000000;stroke-miterlimit:10;}
+	.st1{stroke:#000000;stroke-width:0.8985;stroke-miterlimit:10;}
 	.st2{font-family:'YuMin_36pKn-Demibold-83pv-RKSJ-H';}
-	.st3{font-size:39.2106px;}
-	.st4{fill:#C46FD8;stroke:#383838;stroke-miterlimit:10;}
+	.st3{font-size:35.2308px;}
+	.st4{fill:#C46FD8;stroke:#383838;stroke-width:0.8985;stroke-miterlimit:10;}
 	.st5{font-family:'KozGoPr6N-Regular-83pv-RKSJ-H';}
-	.st6{font-size:8.411px;}
-	.st7{letter-spacing:2;}
+	.st6{font-size:7.5573px;}
+	.st7{letter-spacing:1;}
 </style>
 <g>
 	<g class="st0">
-		<text transform="matrix(1 0 0 1 78.7978 37.8613)" class="st1 st2 st3">老人会</text>
+		<text transform="matrix(1 0 0 1 80.9612 34.5782)" class="st1 st2 st3">老人会</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 74.7978 33.8613)" class="st4 st2 st3">老人会</text>
+		<text transform="matrix(1 0 0 1 77.3672 30.9842)" class="st4 st2 st3">老人会</text>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 5.1181 17.0603)" class="st5 st6">心斎橋キャンパス</text>
+<text transform="matrix(1 0 0 1 14.7598 15.889)" class="st5 st6">心斎橋キャンパス</text>
 <g>
-	<text transform="matrix(1 0 0 1 18.9105 27.6116)"><tspan x="0" y="0" class="st5 st6 st7">Q</tspan><tspan x="8.28" y="0" class="st5 st6">チーム</tspan></text>
+	<text transform="matrix(1 0 0 1 27.1523 25.369)"><tspan x="0" y="0" class="st5 st6 st7">Q</tspan><tspan x="7.44" y="0" class="st5 st6">チーム</tspan></text>
 </g>
 </svg>
